@@ -1,7 +1,7 @@
 <h1 align="center">🌌 Ocean Space Refined 🚀</h1>
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Mikastiv/ocean-space/master/images/icon.png" alt="ocean-space">
+<img src="https://raw.githubusercontent.com/Mikastiv/ocean-space-refined/master/images/icon.png" alt="ocean-space">
 </h1>
 
 <h4 align="center">
@@ -10,11 +10,15 @@
 
 ## Rust
 
-![ocean-space-rust1](images/rust.png)
+![ocean-space-rust](images/rust.png)
 
 ## C++
 
-![ocean-space-cpp1](images/cpp.png)
+![ocean-space-cpp](images/cpp.png)
+
+## Typescript
+
+![ocean-space-typescript](images/typescript.png)
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
