@@ -22,6 +22,13 @@
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
+## Changes from original theme
+
+- Light gray outline for the editor panels edges
+- Scrollbars are more visible (light gray/green instead of almost the same color as background)
+- Struct / classes are orange instead of yellow
+- C++ defines are red instead of yellow
+
 ## Special thanks
 
 Thanks to [Oscar Cortez](https://github.com/oscarmcm) for his [Ocean Space](https://github.com/oscarmcm/ocean-space) theme, which this theme is forked from.
