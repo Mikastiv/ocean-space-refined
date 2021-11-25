@@ -24,10 +24,12 @@
 
 ## Changes from original theme
 
-- Light gray outline for the editor panels edges
+- Light gray outline for the editor panels
 - Scrollbars are more visible (light gray/green instead of almost the same color as background)
+- Selected items in lists (file explorer tree, extension list and more) are more visible (same colors as scrollbars)
 - Struct / classes are orange instead of yellow
 - C++ defines are red instead of yellow
+- Removed all underlines in code
 
 ## Special thanks
 
