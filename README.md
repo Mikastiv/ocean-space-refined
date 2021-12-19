@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
- Edit of <a href="https://github.com/oscarmcm/ocean-space">Ocean Space</a>, the deep oceanic blue Visual Studio Code theme
+ Fork of <a href="https://github.com/oscarmcm/ocean-space">Ocean Space</a>, the deep oceanic blue Visual Studio Code theme
 </h4>
 
 ## Rust
