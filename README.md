@@ -32,6 +32,10 @@
 - C++ defines are red instead of yellow
 - Removed all underlines in code
 
+## Changelog
+
+- v2.0.0 - Added inlay hints colors
+
 ## Special thanks
 
 Thanks to [Oscar Cortez](https://github.com/oscarmcm) for his [Ocean Space](https://github.com/oscarmcm/ocean-space) theme, which this theme is forked from.

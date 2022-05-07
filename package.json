@@ -2,7 +2,7 @@
     "name": "ocean-space-refined",
     "displayName": "Ocean Space Refined",
     "description": "Deep dark theme with a taste of the space",
-    "version": "1.0.4",
+    "version": "2.0.0",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#23262E",
@@ -18,7 +18,7 @@
         "url": "https://github.com/Mikastiv/ocean-space-refined"
     },
     "engines": {
-        "vscode": "^1.14.0"
+        "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
