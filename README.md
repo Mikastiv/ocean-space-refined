@@ -22,6 +22,10 @@
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
+## Note on inlay hints
+
+Since the new inlay hints update, I suggest setting ```"editor.inlayHints.fontSize"``` to 90% of your font size and ```"editor.inlayHints.padding" : true``` (since VSCode 1.69) for rounded corners
+
 ## Changes from original theme
 
 - Light gray outline for the editor panels
