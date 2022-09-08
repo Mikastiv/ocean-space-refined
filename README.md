@@ -38,6 +38,9 @@ Since the new inlay hints update, I suggest setting ```"editor.inlayHints.fontSi
 
 ## Changelog
 
+- v2.1.0 - More visible text highlight color, fixed word highlight color opacity
+- v2.0.2 - Inlay hints color fix
+- v2.0.1 - Inlay hints color fix
 - v2.0.0 - Added inlay hints colors
 
 ## Special thanks
