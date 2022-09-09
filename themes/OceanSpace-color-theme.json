@@ -149,7 +149,8 @@
                 "support.function.magic.python",
                 "entity.other.attribute-name.id",
                 "markup.deleted",
-                "support.type.primitive.ts"
+                "support.type.primitive.ts",
+                "support.type.builtin.ts"
             ],
             "settings": {
                 "foreground": "#E25822"
