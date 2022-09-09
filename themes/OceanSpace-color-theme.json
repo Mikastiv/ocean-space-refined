@@ -148,7 +148,8 @@
                 "source.php support.function",
                 "support.function.magic.python",
                 "entity.other.attribute-name.id",
-                "markup.deleted"
+                "markup.deleted",
+                "support.type.primitive.ts"
             ],
             "settings": {
                 "foreground": "#E25822"

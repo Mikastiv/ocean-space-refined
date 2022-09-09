@@ -96,7 +96,7 @@
         "editorGutter.modifiedBackground": "#3B79C7BB",
         "editorGutter.addedBackground": "#45C758BB",
         "editorGutter.deletedBackground": "#FC644DBB",
-        
+
         // Diff Editor Colors
         "diffEditor.insertedTextBackground": "#A5F69C20",
         "diffEditor.removedTextBackground": "#FC644D20",
