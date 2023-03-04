@@ -34,6 +34,7 @@
         "scrollbarSlider.hoverBackground": "#07d4b6A0",
         // Badge
         "badge.background": "#00B0FF",
+        "profileBadge.background": "#00B0FF",
         // Progress Bar
         "progressBar.background": "#C668BA",
         // Lists and Trees
@@ -96,7 +97,6 @@
         "editorGutter.modifiedBackground": "#3B79C7BB",
         "editorGutter.addedBackground": "#45C758BB",
         "editorGutter.deletedBackground": "#FC644DBB",
-
         // Diff Editor Colors
         "diffEditor.insertedTextBackground": "#A5F69C20",
         "diffEditor.removedTextBackground": "#FC644D20",
