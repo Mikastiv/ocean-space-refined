@@ -36,16 +36,6 @@ Since the new inlay hints update, I suggest setting ```"editor.inlayHints.fontSi
 - C++ defines are red instead of yellow
 - Removed all underlines in code
 
-## Changelog
-
-- v3.0.0 - Added badge color for profiles
-- v2.3.0 - Fixed color for typescript builtin
-- v2.2.0 - Fixed color for typescript primitive
-- v2.1.0 - More visible text highlight color, fixed word highlight color opacity
-- v2.0.2 - Inlay hints color fix
-- v2.0.1 - Inlay hints color fix
-- v2.0.0 - Added inlay hints colors
-
 ## Special thanks
 
 Thanks to [Oscar Cortez](https://github.com/oscarmcm) for his [Ocean Space](https://github.com/oscarmcm/ocean-space) theme, which this theme is forked from.
