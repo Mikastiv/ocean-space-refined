@@ -130,7 +130,10 @@
         },
         {
             "name": "Blue",
-            "scope": ["string.regexp", "markup.changed"],
+            "scope": [
+                "string.regexp",
+                "markup.changed"
+            ],
             "settings": {
                 "foreground": "#3A75C4"
             }
@@ -149,7 +152,8 @@
                 "entity.other.attribute-name.id",
                 "markup.deleted",
                 "support.type.primitive.ts",
-                "support.type.builtin.ts"
+                "support.type.builtin.ts",
+                "variable.other.enummember.cpp"
             ],
             "settings": {
                 "foreground": "#E25822"
