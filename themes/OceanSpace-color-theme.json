@@ -61,7 +61,8 @@
                 "constant.other.caps.python",
                 "entity.other.attribute-name",
                 "support.type.exception.python",
-                "source.css keyword.other.unit"
+                "source.css keyword.other.unit",
+                "support.type.object"
             ],
             "settings": {
                 "foreground": "#f39c12"

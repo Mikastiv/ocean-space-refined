@@ -1,5 +1,6 @@
 # Changelog
 
+- v3.0.2 - Fix hlsl object type color
 - v3.0.1 - C++ enums are now red
 - v3.0.0 - Added badge color for profiles
 - v2.3.0 - Fixed color for typescript builtin
