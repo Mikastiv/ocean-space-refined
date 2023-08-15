@@ -179,13 +179,6 @@
                 "foreground": "#14B37D"
             }
         },
-        // {
-        //     "name": "Font Underline",
-        //     "scope": ["entity.other.inherited-class"],
-        //     "settings": {
-        //         "fontStyle": "underline"
-        //     }
-        // },
         {
             "name": "Font Italic",
             "scope": [
