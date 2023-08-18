@@ -1,5 +1,6 @@
 # Changelog
 
+- v3.0.5 - Zig builtins set to orange, update deprecated indent guides setting
 - v3.0.4 - Rollback scrollbar transparency change, added transparency to background scrollbar color
 - v3.0.3 - Removed scrollbar transparency
 - v3.0.2 - Fix hlsl object type color
