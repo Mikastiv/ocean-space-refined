@@ -49,6 +49,7 @@
         {
             "name": "Orange",
             "scope": [
+                "support.function.builtin.zig",
                 "entity.name.function.preprocessor",
                 "entity.name.type",
                 "constant.numeric",
