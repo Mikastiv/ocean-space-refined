@@ -19,6 +19,7 @@
         {
             "name": "Text Color",
             "scope": [
+                "source",
                 "meta.template.expression.js",
                 "constant.name.attribute.tag.jade",
                 "punctuation.definition.metadata.markdown",
