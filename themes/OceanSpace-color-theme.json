@@ -157,7 +157,7 @@
                 "markup.deleted",
                 "support.type.primitive.ts",
                 "support.type.builtin.ts",
-                "variable.other.enummember.cpp"
+                "variable.other.enummember"
             ],
             "settings": {
                 "foreground": "#E25822"

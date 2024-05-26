@@ -1,5 +1,6 @@
 # Changelog
 
+- v3.1.1 - Make C enums red
 - v3.1.0 - Brighter comments color
 - v3.0.5 - Zig builtins set to orange, update deprecated indent guides setting
 - v3.0.4 - Rollback scrollbar transparency change, added transparency to background scrollbar color
