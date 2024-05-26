@@ -36,5 +36,6 @@
                 "path": "./themes/OceanSpace-italic-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
